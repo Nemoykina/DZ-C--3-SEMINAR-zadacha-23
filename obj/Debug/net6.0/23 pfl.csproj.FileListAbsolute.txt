@@ -1,0 +1,15 @@
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\bin\Debug\net6.0\23 pfl.exe
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\bin\Debug\net6.0\23 pfl.deps.json
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\bin\Debug\net6.0\23 pfl.runtimeconfig.json
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\bin\Debug\net6.0\23 pfl.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\bin\Debug\net6.0\23 pfl.pdb
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.csproj.AssemblyReference.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.AssemblyInfoInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.AssemblyInfo.cs
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.csproj.CoreCompileInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\refint\23 pfl.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.pdb
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\23 pfl.genruntimeconfig.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\23 pfl\obj\Debug\net6.0\ref\23 pfl.dll
